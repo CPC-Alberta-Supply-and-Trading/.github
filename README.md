@@ -1,4 +1,4 @@
-Capital Power Alberta Supply and Trading
+# Capital Power Alberta Supply and Trading
 
 ## About Us
 Capital Power Supply and Trading operates as part of Capital Power Corporation (TSX: CPX), a growth-oriented North American power producer headquartered in Edmonton, Alberta.
