@@ -1,6 +1,6 @@
 # Capital Power Alberta Supply and Trading
 
-**All Repositories (Private):** [Click Here](https://github.com/CPC-Alberta-Supply-and-Trading/1.0-Appendix)
+**All Repositories (Private):** [Click Here](https://github.com/CPC-Alberta-Supply-and-Trading/appendix)
 
 ## About Us
 
